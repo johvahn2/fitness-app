@@ -24,7 +24,8 @@ import {
 	MatAutocompleteModule,
 	MatSlideToggleModule,
 	MatSnackBarModule,
-	MatTooltipModule
+	MatTooltipModule,
+	MatListModule
 } from '@angular/material';
 
 const materials = [
@@ -50,7 +51,8 @@ const materials = [
 	MatAutocompleteModule,
 	MatSlideToggleModule,
 	MatSnackBarModule,
-	MatTooltipModule
+	MatTooltipModule,
+	MatListModule
   ];
 
   @NgModule({
